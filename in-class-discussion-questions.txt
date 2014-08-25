@@ -3,11 +3,11 @@ ARTICLE: CARLINER, COMPUTERS AND TECHNICAL COMMUNICATION
 
 QUESTIONS: 
 
-1. In the early days, what was the difference between a writer and a prodcution assistant?
+1. In the early days, what was the difference between a writer and a production assistant?
 2. What changed in the mid-1980's that changed the nature of technical communication?
 3. When did technical writers become information developers? What happened in the organization to spur on this change in job title?
 4. How has production changed from the 70's until now? What implications does this have for you?
-5. How has technical communicator's job responsibliities changed from the 70's until now? What implications does this have for you?
+5. How has technical communicator's job responsibilities changed from the 70's until now? What implications does this have for you?
 6. Why does Carliner talk about the classification (professional vs. para-professional) in regards to technical writers? 
 7. In the 21st century, what are the key changes to the production cycle that impacts technical communicators?
 8. Currently, what are the "two tracks" of technical communicators that Carliner discusses? 
@@ -15,6 +15,6 @@ QUESTIONS:
 10. The changes from phase 4 to phase 5, as described by Carliner, are particularly relevant to you. What do these changes mean to you? How will you adapt to these changes? 
 11. When was XML introduced? What advantages did XML bring for technical communicators?
 12. What two words does Carliner use to describe phase 5?
-13. One of the most alarming statements in Carliner's article reads "However, those who develop and produce content have been facing dwindling opportunites". What does this mean for you?
+13. One of the most alarming statements in Carliner's article reads "However, those who develop and produce content have been facing dwindling opportunities. What does this mean for you?
 14. What are the differences between authoring, publishing, and management technologies? What do these differences mean for you?
-15. What does Carliner say about academic programs in technical communication? What impications does this have for you?
+15. What does Carliner say about academic programs in technical communication? What implications does this have for you?
