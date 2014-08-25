@@ -18,3 +18,12 @@ QUESTIONS:
 13. One of the most alarming statements in Carliner's article reads "However, those who develop and produce content have been facing dwindling opportunities. What does this mean for you?
 14. What are the differences between authoring, publishing, and management technologies? What do these differences mean for you?
 15. What does Carliner say about academic programs in technical communication? What implications does this have for you?
+
+ARTICLE: ALBERS, "THE FUTURE OF TECHNICAL COMMUNICATION"
+
+QUESTIONS: 
+
+- What is the difference between tools and technology? Give some examples
+- Is XML a technology or a tool?
+- What is the main distinction between practitioners and academics, according to Albers?
+- What is Albers main thesis for the future of technical communicators?
