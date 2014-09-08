@@ -1,3 +1,30 @@
+=====WEEK 2=====
+ARTICLE: DICKS, “THE EFFECTS OF DIGITAL LITERACY ON THE NATURE OF TECHNICAL COMMUNICATION WORK”
+
+QUESTIONS: 
+1. Dicks describes 3 major types of forces that have impacted technical communicators. What are they and how do they affect technical communicators?
+
+2. What is knowledge work? How has technical communication (as a discipline) moved from “blue collar” to knowledge work?
+
+3. What does it mean to do commodity work versus doing symbolic-analytic work? What kind of work do technical communicators do that is considered commodity work? 
+
+4. What are at least three characteristics of symbolic-analytic work? 
+
+5. What is the difference between a symbolic-analytic worker and a “middle man” approach to technical communication? How does technology play a role in this?
+
+6. What are the two fundamental changes to the products that technical communicators document? (hint: page 58-59)
+
+7. What is the support economy and how will it affect technical communicators?
+
+8. What are the four ways to articulate value for technical communicators? Discuss each. Which are easy for you to articulate? Which are difficult?
+
+9. What role do databases and scripting languages play in symbolic-analytic work? How does this work differ from commodity work? How will this save your job from being outsourced? 
+
+10. What is single sourcing? What does Dicks’ say about XML, databases, and programming in regards to single sourcing? 
+
+11. What is agile design? What is a technical communicator’s role in agile design?
+
+12. How does a technology like GitHub enhance agile design, extreme programming, and Scrum?
 =====WEEK 1=====
 ARTICLE: CARLINER, “COMPUTERS & TECHNICAL COMMUNICATION”
 
